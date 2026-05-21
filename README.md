@@ -3,8 +3,8 @@
 Sub-projeto do programa **SN-2026**.  
 Painel de voos programados usando a **API oficial SIROS da ANAC** — sem autenticação, sem custo, sem limites.
 
-Organização: [github.com/SN-2026](https://github.com/SN-2026)  
-Site: [SN-2026.github.io/06-05-2026-siros](https://SN-2026.github.io/06-05-2026-siros/)
+Organização: [github.com/SN-2026-LRM](https://github.com/SN-2026-LRM)  
+Site: [SN-2026.github.io/SN-2026-Siros-LucasRamosMarchetti](https://sn-2026-lrm.github.io/SN-2026-Siros-LucasRamosMarchetti/)
 
 ---
 
